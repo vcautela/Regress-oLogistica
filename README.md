@@ -1,2 +1,2 @@
-# Regress-oLogistica
-esse repositório contem exercícios para introdução do modelo de classificação LogisticRegression
+# RegressaoLogistica
+esse repositório contém exercícios para introdução do modelo de classificação LogisticRegression
